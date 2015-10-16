@@ -14,11 +14,12 @@ public class main {
 
 	}
 	
-	int factorielle() {
+
+int récursif() {
 		
-		
+		int a;
+		a=3*6;
 		return 0;
 	}
-
 }
 //ooo
