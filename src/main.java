@@ -14,6 +14,7 @@ public class main {
 
 	}
 	
+<<<<<<< HEAD
 	int factorielle() {
 		
 		int a=0;
@@ -23,3 +24,14 @@ public class main {
 	}
 
 }
+=======
+
+int récursif() {
+		
+		int a;
+		a=3*6;
+		return 0;
+	}
+}
+//ooo
+>>>>>>> 5f50eb330527fd8aa93b314a9a29bf4902ee4b0b
