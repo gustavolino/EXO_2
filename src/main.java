@@ -16,9 +16,10 @@ public class main {
 	
 	int factorielle() {
 		
+		int a=0;
 		
-		return 0;
+		a+=1;
+		return a;
 	}
 
 }
-//ooo
